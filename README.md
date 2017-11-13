@@ -1,4 +1,7 @@
 # AdAway
 Hebrew list fot AdAway
 
-add the url in your Android App
+Add this URL in your Mobile App
+
+https://raw.githubusercontent.com/nnnvvv/AdAway/master/hosts.txt
+
