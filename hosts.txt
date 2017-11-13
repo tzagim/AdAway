@@ -1,0 +1,78 @@
+# AdAway default blocklist
+# Blocking mobile ad providers and some analytics providers
+# 
+#
+# Changelog:
+#
+#
+# License:
+# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
+#
+# Contributions by:
+# mmm_45@walla.com
+#
+
+127.0.0.1  localhost
+::1  localhost
+
+# [General]
+127.0.0.1 trustmedia.co.il
+127.0.0.1 adclick.g.doubleclick.net
+
+# [inn]
+# 127.0.0.1 info.a7.org
+127.0.0.1 a7.org
+
+# [d-group]
+127.0.0.1 ban.d-group.co.il
+127.0.0.1 banners.zap.co.il
+127.0.0.1 banners1.bizportal.co.il
+
+# [mako]l
+127.0.0.1 api.conduit.com
+127.0.0.1 apps.mako.co.il
+# 127.0.0.1 rcs.mako.co.il
+127.0.0.1 sdc.mako.co.il
+
+# [bhol]
+127.0.0.1 cache2.bhol.co.il
+127.0.0.1 cdn.co.il
+127.0.0.1 ads.bhol.co.il
+
+# [ch10]
+127.0.0.1 ha10.org
+
+# [security]
+127.0.0.1 ssl-google-analytics.com
+127.0.0.1 google-analytics.com
+
+# [koker]
+127.0.0.1 reshetdigital.checkm8.com
+
+# [server-ydm]
+127.0.0.1 server-ydm.com
+
+# [kipa]
+127.0.0.1 old.kipasruga.com
+
+# [groupon]
+127.0.0.1 partner-ts.groupon.co.il
+
+# [walla]
+127.0.0.1 x.walla.com
+127.0.0.1 x.walla.co.il
+127.0.0.1 a.walla.co.il
+127.0.0.1 x.wcdn.co.il
+127.0.0.1 xwbe.wcdn.co.il
+127.0.0.1 wal.umamdmo.com
+
+# [israelhayom]
+127.0.0.1 aff.adland.co.il
+127.0.0.1 cdn.ajillionmax.com
+
+# [news1]
+127.0.0.1 banners.news1.co.il
+127.0.0.1 media.erate.co.il
+
+# [02ws]
+127.0.0.1 crayze.io
