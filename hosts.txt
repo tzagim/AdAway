@@ -76,3 +76,6 @@
 
 # [02ws]
 127.0.0.1 crayze.io
+
+# [holyclock]
+127.0.0.1 holyclock.com
