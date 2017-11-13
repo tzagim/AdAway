@@ -3,25 +3,13 @@
 # 
 #
 # Changelog:
-# 16-09-2013 new list.
 #
-# Updeta:
-# 07/08/2014 fix bugs and remove doubles
-# 25/07/2014 update servers
-# 13/07/2014 fix ads waze
-# 18/06/2014 new block ads
-# 26/05/2014 ch10.co.il
-# 20/05/2014 new servers
-# 24/02/2014 Ordering, new servers.
-# 03/11/2015 fwo updates
-# 11/07/2016 new servers, remove old waze servers
-# 28/12/2016 new servers
 #
 # License:
 # CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 #
 # Contributions by:
-# tzvika, jerusalem israel
+# mmm_45@walla.com
 #
 
 127.0.0.1  localhost
