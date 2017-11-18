@@ -54,6 +54,9 @@
 
 # [kipa]
 127.0.0.1 old.kipasruga.com
+127.0.0.1 secure.kipasruga.com
+127.0.0.1 kipasruga.com
+127.0.0.1 static10.kipa.co.il
 
 # [groupon]
 127.0.0.1 partner-ts.groupon.co.il
