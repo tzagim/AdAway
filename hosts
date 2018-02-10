@@ -18,9 +18,10 @@
 # [General]
 127.0.0.1 trustmedia.co.il
 127.0.0.1 adclick.g.doubleclick.net
+127.0.0.1 doubleclick.net
+127.0.0.1 isnet.co.il
 
 # [inn]
-# 127.0.0.1 info.a7.org
 127.0.0.1 a7.org
 
 # [d-group]
